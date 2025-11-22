@@ -352,7 +352,7 @@ const Contact = () => {
                       ${iframeLoaded ? 'opacity-100' : 'opacity-0'} 
                       h-[950px] lg:h-full`}>
                      <iframe 
-                        src="https://calendly.com/lovejeetwraichh/30min" 
+                        src="https://calendly.com/lovejeet-tulika/30min" 
                         width="100%" 
                         height="100%" 
                         frameBorder="0"
